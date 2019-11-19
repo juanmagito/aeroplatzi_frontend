@@ -1,0 +1,45 @@
+.searchFly-container {
+  font-size: 1.2em;
+  background-color: green;
+  border: 2px solid black;
+  width: 80vw;
+  height: 200px;
+  padding: 10px;
+}
+
+.searchFly-form {
+  font-size: 1.2em;
+  background-color: yellow;
+  border: 2px solid red;
+  height: 176px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.selectDestinos {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.selectDate {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.selectPersonas {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.searchFly-form select {
+  font-size: 0.8em;
+}
+
+.searchFly-form option {
+  font-size: 1.2em;
+}
